@@ -13,6 +13,8 @@ View the earthquake data in relation to the tectonic plates’ location on the e
   .The tectonic layer group variable is added to the map
 - The earthquake data and tectonic plate data displayed on the map when the page loads
 
+![Tectonic_Plate](https://github.com/veenapu/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/Earthquake_%26_Tectonic_Plate.PNG)
+
 ## Deliverable 2: Add Major Earthquake Data
 - The major earthquake data is added as a third layer group
 - The major earthquake data is added to the overlay object
@@ -23,7 +25,11 @@ View the earthquake data in relation to the tectonic plates’ location on the e
   .The major earthquake layer group variable is added to the map
 - All the earthquake data and tectonic plate data are displayed on the map when the page loads and the datasets can be toggled on or off
 
+![Major_Earthquakes](https://github.com/veenapu/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/With_Major_Earthquakes.PNG)
+
 ## Deliverable 3: Add an Additional Map
 - A third map tile layer is created
 - The third map is added to the overlay object
 - All the earthquake data and tectonic plate data are displayed on the all maps of the webpage
+
+![Tectonic_Plate_and_Two_Earthquakes](https://github.com/veenapu/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/Tectonic_Plate_%26_Two_Earthquakes.PNG)
